@@ -1,0 +1,24 @@
+# Segredos
+.env
+
+# Ambiente virtual
+.venv/
+
+# Banco e dados locais
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
